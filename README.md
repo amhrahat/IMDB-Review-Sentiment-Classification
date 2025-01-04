@@ -41,27 +41,3 @@ The dataset consists of IMDB movie reviews labeled as positive or negative. [Pro
 
 ## Acknowledgments
 This project was completed as part of the coursework for CSE424.
-
-
-
-
-
-
-Navigate to the project directory:
-bash
-Copy code
-cd IMDB-Review-Sentiment-Classification
-Install the required dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Open the Jupyter Notebook to explore and execute the code:
-bash
-Copy code
-jupyter notebook imdb_sentiment_classification.ipynb
-Future Improvements
-Experiment with deep learning models like LSTM or BERT for better performance on complex sentences.
-Improve preprocessing by adding lemmatization and removing stopwords.
-Extend the model to handle multi-class sentiment classification.
-Acknowledgments
-This project was completed as part of the coursework for CSE425.
